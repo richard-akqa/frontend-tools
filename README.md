@@ -20,7 +20,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 * [liveReload](http://livereload.com/)
 
-* [browsersync](http://www.browsersync.io/)
+* [browsersync](http://www.browsersync.io/) No need to refresh browser.
 
 * [middleman](http://middlemanapp.com/) Ruby based, output to static scaffolding. 
 
