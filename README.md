@@ -9,20 +9,20 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######Workflow/Builds/Assemblers/Task-runners/Dev Opts
 
-* [grunt] Mainstream nodejs base task-runners (http://gruntjs.com/)
+* [grunt](http://gruntjs.com/) Mainstream nodejs base task-runners 
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
 	* [Takeoff](http://tsvensen.github.io/Takeoff/)
 
 * [gulpjs](http://gulpjs.com/)
 
-* [codeKit] No need of scaffolding, perfect for already build static. (http://incident57.com/codekit/)
+* [codeKit](http://incident57.com/codekit/) No need of scaffolding, perfect for already build static. 
 
 * [liveReload](http://livereload.com/)
 
 * [browsersync](http://www.browsersync.io/)
 
-* [middleman] Ruby based, output to static scaffolding. (http://middlemanapp.com/)
+* [middleman](http://middlemanapp.com/) Ruby based, output to static scaffolding. 
 
 Others:
 * [bud](http://github.com/azer/bud)
