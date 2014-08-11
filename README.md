@@ -9,18 +9,27 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######Workflow/Builds/Assemblers/Task-runners/Dev Opts
 
-* [bud](http://github.com/azer/bud)
-* [lumbar](http://walmartlabs.github.io/lumbar/)
-* [brunch](http://brunch.io/)
-* [grunt](http://gruntjs.com/)
+* [grunt] Mainstream nodejs base task-runners (http://gruntjs.com/)
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
 	* [Takeoff](http://tsvensen.github.io/Takeoff/)
+
 * [gulpjs](http://gulpjs.com/)
+
+* [codeKit] No need of scaffolding, perfect for already build static. (http://incident57.com/codekit/)
+
+* [liveReload](http://livereload.com/)
+
+* [browsersync](http://www.browsersync.io/)
+
+* [middleman] Ruby based, output to static scaffolding. (http://middlemanapp.com/)
+
+Others:
+* [bud](http://github.com/azer/bud)
+* [lumbar](http://walmartlabs.github.io/lumbar/)
+* [brunch](http://brunch.io/)
 * [broccoli](https://github.com/joliss/broccoli)
 * [mimosa](http://mimosa.io/)
-* [codeKit](http://incident57.com/codekit/)
-* [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](https://github.com/anviljs/anvil.js/)
 * [modjs](http://modulejs.github.io/modjs/)
@@ -28,7 +37,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [AUTOMATON](http://indigounited.com/automaton/)
 * [volo](http://volojs.org/)
 * [roots](http://roots.cx/)
-* [middleman](http://middlemanapp.com/)
 
 ---
 
@@ -36,6 +44,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 * [bower](http://bower.io)
 * [component](https://github.com/component/component)
+
+Others:
 * [ender](http://ender.jit.su/)
 * [jam](http://jamjs.org/)
 * [volo](http://volojs.org/)
@@ -52,6 +62,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
+
+Others:
 * [HTML KickStart](http://www.99lime.com/elements/)
 * [kube](http://imperavi.com/kube/)
 * [skeleton](http://www.getskeleton.com/)
@@ -86,6 +98,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jQuery](http://jquery.com/)
 	*  [jQuery++](http://jquerypp.com/)
 * [zepto](http://zeptojs.com/)
+
+Others:
 * [tire](http://tirejs.com/)
 * [mooTools](http://mootools.net/)
 * [DOMAssistant](http://www.domassistant.com/)
@@ -146,10 +160,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######CSS Helpers
+
+* [Autoprefixer](https://github.com/ai/autoprefixer)
+
+
 * [typecsset](https://github.com/csswizardry/typecsset)
 * [-prefix-free](http://leaverou.github.io/prefixfree/)
 * [CSScomb](http://csscomb.com)
-* [Autoprefixer](https://github.com/ai/autoprefixer)
+
 
 ---
 
